@@ -38,3 +38,6 @@ https://aka.ms/devops
 
 * VS Code – Free. Built on open source. Runs everywhere.
 https://aka.ms/vscode 
+
+* Code Samples - Logic Apps 
+https://docs.microsoft.com/samples/browse/?products=azure-logic-apps

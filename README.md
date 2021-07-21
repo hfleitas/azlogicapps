@@ -30,4 +30,11 @@ Find more at https://aka.ms/hiram & https://github.com/hfleitas
 
 ## Resources
 
-* [Sample Workflow Definition](https://docs.microsoft.com/en-us/azure/logic-apps/sample-logic-apps-cli-script)
+* Azure Logic Apps – Build powerful integration solutions.
+https://aka.ms/logicapps 
+
+* Azure DevOps – Plan smatter, collaborate better, and ship faster.
+https://aka.ms/devops 
+
+* VS Code – Free. Built on open source. Runs everywhere.
+https://aka.ms/vscode 
